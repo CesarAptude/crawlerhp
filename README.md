@@ -8,4 +8,4 @@ Prerequsites
 
 Python3 and beautifulsoup library installed
  
- To be reviewed
+*To be reviewed
